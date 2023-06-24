@@ -1,0 +1,1 @@
+const pathOfPhoto = 'assets/images/cover.png' ;

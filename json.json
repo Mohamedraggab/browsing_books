@@ -1,0 +1,79 @@
+{
+  "kind": "books#volume",
+  "id": "6sXACwAAQBAJ",
+  "etag": "gAkfgw7348I",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/6sXACwAAQBAJ",
+  "volumeInfo": {
+    "title": "COMPUTER SCIENCE and ENGINEERING TECHNOLOGY (CSET2015), MEDICAL SCIENCE and BIOLOGICAL ENGINEERING (MSBE2015) - PROCEEDINGS of the 2015 INTERNATIONAL CONFERENCE on CSET and MSBE",
+    "authors": [
+      "Qingjun E. T. Al LIU"
+    ],
+    "publisher": "World Scientific",
+    "publishedDate": "2015-12-08",
+    "description": "This book brings together 106 papers presented at the Joint Conferences of 2015 International Conference on Computer Science and Engineering Technology (CSET2015) and 2015 International Conference on Medical Science and Biological Engineering (MSBE2015), which were held in Hong Kong on 30-31 May 2015.The joint conferences covered a wide range of research topics in new emerging technologies, ranging from computing to biomedical engineering. During the conferences, industry professionals, scholars and government agencies around the world gathered to share their latest research results and discuss the practical challenges they encountered. Their research articles were reviewed and selected by a panel of experts before being compiled into this proceedings. Combining research findings and industry applications, this proceedings should be a useful reference for researchers and engineers working in computing and biomedical science.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "981465101X"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9789814651011"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": true
+    },
+    "pageCount": 776,
+    "printedPageCount": 777,
+    "printType": "BOOK",
+    "categories": [
+      "Technology & Engineering / Engineering (General)",
+      "Computers / Computer Science",
+      "Medical / General",
+      "Technology & Engineering / Reference"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=6sXACwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70QsgHH9sX-8nF3bZZGmc7pbppx2S2UgGq6jRSUKOsqbws5zqZaizv4C3RY7JYmPBfCld9LAM8qZGxtX76n6GjtK9JRjHROWOXFQzIO_5MbK-rai7E30FSxseyj17G5ZoJj2N9x&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=6sXACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71j-ZbzC7jMGkpoV7Eb5HUQNIaKwyCNBpBc-G2PS1b9JfOoh0V_375nEjIf6kVgsDN-QV_KSM7ioZtWGfQwAq6ojPLIcv7yQ4LY0xlDdqDEcqcY131SrUZR-_hu9P3mvp8c9up6&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=6sXACwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71Gr-mMaPvY7R8bq0IpG8i6S0JHr6hhCC85pjbqExUCGZciJQSwHRMMdkMdURzlfVvJAwpX-ggHcIxO_z3A4NIEREYVZZmUWaA8Rv816lkK8hWWUj5vn4VhZhixhgOgREc4YxlK&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=6sXACwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71wk_ey-K7WpSROE2w1gkeu8sv4W_PirJjY5eb0UMRoW_lhvGqicO6SCv_AZG9Pon69TYqxwZEJMz5_LfhfNSSY15mtv0InPMhwDEg4I6jbiJZ5tqZMbCx8inUFd_5hsKeLlLes&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=6sXACwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE704TkNGATMqeGTADjmiHjGbeVVqRezIQ5jKcCXGY6GFsCov-6oxkjF-Y1Z7-rm8VF0zyqPZaoN3tYeXWmWbpwESAPXKODTJh40H8NxRtJv8y9XXOpLYkVPDD-7GUH27JwsBpU45&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=6sXACwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71wE_mfad9ymISVONdYHPw4QQTUyQs3_QBSIfXAql_j8ZYx8-TxuS7sdI1DG1-VMvCJE0l0FJJTa9bIFo6-GGlSy1aqm8ytdD-bcPcPMy-DaT6pTidC6FV3n6pJz54YBiAV3Bx0&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.eg/books?id=6sXACwAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6sXACwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6sXACwAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "EG",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "EG",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com.eg/books/download/COMPUTER_SCIENCE_and_ENGINEERING_TECHNOL-sample-pdf.acsm?id=6sXACwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6sXACwAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}
